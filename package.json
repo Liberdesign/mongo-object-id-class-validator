@@ -21,7 +21,7 @@
     "objectid",
     "decorator",
     "class-validator",
-    "quantumsheep/class-validator-mongo-object-id"
+    "Liberdesign/mongo-object-id-class-validator"
   ],
   "author": "quantumsheep <nathanael.dmc@outlook.fr>",
   "license": "MIT",
